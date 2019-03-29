@@ -1,0 +1,2 @@
+OS1/** filter=lfs diff=lfs merge=lfs -text
+OS2/** filter=lfs diff=lfs merge=lfs -text
